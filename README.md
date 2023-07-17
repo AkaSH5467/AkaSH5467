@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A curious developer from the Land of Seekers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash5467&label=Profile%20views&color=0e75b6&style=flat" alt="akash5467" /> </p>
+<p align="right"> <img src = "https://giphy.com/explore/programmers alt="ACM"/></p>
 
 - 🔭 I’m currently working on **Abstractive Text Summerizer**
 
